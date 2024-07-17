@@ -1,3 +1,4 @@
+
 // We use the Objects below to control toggling like / unlike status
 
 const glyphStates = {
